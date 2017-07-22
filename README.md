@@ -1,6 +1,7 @@
-# list
+# Listr (WIP)
 
-> A Vue.js project
+> A project to show how to use Firebase and Firebase authentication with 
+> with Vue.js and Vuex
 
 ## Build Setup
 
